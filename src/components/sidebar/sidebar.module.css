@@ -1,0 +1,19 @@
+.sidebar {
+  width: 201px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: cadetblue;
+  border: 1px solid rgb(235, 214, 214);
+  position: fixed;
+}
+.categoryName {
+  background-color: purple;
+  color: white;
+  border: 1px solid cyan;
+  width: 200px;
+  height:25px;
+  margin-top: 25px;
+  cursor: pointer;
+}

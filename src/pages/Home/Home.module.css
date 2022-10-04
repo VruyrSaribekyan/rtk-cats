@@ -1,0 +1,17 @@
+.container{
+    display:flex;
+    
+}
+.catContainer{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 15px;
+    margin: 10px;
+    flex-wrap: wrap;
+    padding-left: 200px;
+}
+.images{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
